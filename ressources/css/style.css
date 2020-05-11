@@ -28,8 +28,7 @@ h3 {
 .header h1 {
     color: rgb(58, 133, 194);
     padding: 15px;
-    font-size: 3em;
-    
+    font-size: 3em;    
 }
 
 #iniciar {   
@@ -109,8 +108,7 @@ h3 {
 
 .brindes-disponiveis {
     display: flex;
-    flex-direction: column; 
-    
+    flex-direction: column;     
 }
 
 li {

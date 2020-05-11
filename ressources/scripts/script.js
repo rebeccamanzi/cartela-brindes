@@ -44,7 +44,7 @@ $(function() {
 // TO DO:
 
 // resgate brindes
-// à medida que or retirando os brindes o cálculo tem q ser td refeito pra saber qts ainda posso pegar
+// à medida que retira os brindes o cálculo tem q ser td refeito pra saber qts ainda posso pegar
 // gerar nova cartela de selos (se selos > 100)
 // obrigatório resgatar brinde(s) ao completar cartela (selos = 100)
 
