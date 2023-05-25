@@ -18,14 +18,3 @@ Caso o cliente ganhe mais de 100 selos, uma **nova cartela** é gerada contendo 
 ## Desenvolvimento
 
 A aplicação utiliza **HTML, CSS, JavaScript** e **JQuery**.
-
-## Status
-
-Em desenvolvimento. 
-
-## Próximas etapas
-
- - [ ] Processo de resgate dos brindes;
- - [ ] Gerar automaticamente nova cartela;
- - [ ] Mensagens de erro.
-
